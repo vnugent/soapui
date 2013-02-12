@@ -7,7 +7,6 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.smartbear.soapui</groupId>
     <artifactId>soapui</artifactId>
     <name>soapUI</name>
     <description>The main soapUI project</description>
@@ -17,7 +16,7 @@
     <parent>
         <groupId>com.smartbear.soapui</groupId>
         <artifactId>soapui-project</artifactId>
-        <version>4.5.2-SNAPSHOT</version>
+        <version>4.5.1-NB-SNAPSHOT</version>
     </parent>
 
     <repositories>
