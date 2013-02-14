@@ -295,7 +295,7 @@
                 <artifactId>maven-gitlog-plugin</artifactId>
                 <version>1.4.11</version>
                 <configuration>
-                    <reportTitle>soapUI ${project.version} | https://github.com/SmartBear/soapui/tree/maintenance
+                    <reportTitle>soapUI ${project.version} | https://github.com/SmartBear/soapui/tree/ready-for-testing
                     </reportTitle>
                     <generatePlainTextChangeLog>false</generatePlainTextChangeLog>
                     <generateHTMLTableOnlyChangeLog>false</generateHTMLTableOnlyChangeLog>
