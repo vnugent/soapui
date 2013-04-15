@@ -17,7 +17,7 @@
     <parent>
         <groupId>com.smartbear.soapui</groupId>
         <artifactId>soapui-project</artifactId>
-        <version>4.5.2-SNAPSHOT</version>
+        <version>4.5.2-SOAP165</version>
     </parent>
 
     <pluginRepositories>
@@ -354,7 +354,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>12.0</version>
+            <version>14.0</version>
         </dependency>
         <dependency>
             <groupId>commons-collections</groupId>
