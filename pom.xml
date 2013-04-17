@@ -24,7 +24,6 @@
 
     <modules>
         <module>soapui</module>
-        <module>soapui-maven-plugin</module>
      </modules>
 
 </project>
